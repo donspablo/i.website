@@ -1,5 +1,5 @@
 ---
-title: 'i.website: A don Federation Company' featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+title: 'i.website: XIΞLΞVAN SOLUTIONS' featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 description: "i.website is under construction."
 ---
 
